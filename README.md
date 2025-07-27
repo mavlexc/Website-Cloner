@@ -38,4 +38,5 @@ See Terms of Use for more details.
    pip install requests
    pip install beautifulsoup4
    pip install pillow
-   ```
+3. Go to your webcloner.py directory
+4. Right click the script and click Open with Python
