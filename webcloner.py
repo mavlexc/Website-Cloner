@@ -328,7 +328,7 @@ def run_gui():
     log_text = tk.Text(main_frame, height=9, width=60, state='disabled', font=('Consolas', 9), bg="#f7f7f7", fg="#222", relief='flat', highlightthickness=0)
     log_text.pack(fill='both', expand=True, padx=24, pady=(0, 8))
 
-    footer = tk.Label(root, text="Made by mavlex | 2024", bg="#f7f7f7", fg="#4F8EF7", font=("Segoe UI", 9))
+    footer = tk.Label(root, text="Made by mavlex | 2025", bg="#f7f7f7", fg="#4F8EF7", font=("Segoe UI", 9))
     footer.pack(side='bottom', fill='x', pady=(0, 2))
 
     def log_callback(msg):
